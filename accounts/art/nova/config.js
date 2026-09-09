@@ -4,12 +4,12 @@ let prefix = '.';
 const config = {
     botName: 'art',
     version: '4.0.0',
-    owner: '201037386326',
+    owner: '213540419314',
 
     defaultPrefix: '.',
 
     pairing:{
-        phone: "201037386326",
+        phone: "213540419314",
         code : "ART1ART1",
     },
 
